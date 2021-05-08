@@ -6,7 +6,7 @@ public class EditProductTest {
 	@Test
 	public void editProduct()
 	{
-		System.out.println("Product has been edited");
+		System.out.println("Product has been edited Succesffuly");
 	}
 
 }
